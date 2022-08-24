@@ -17,3 +17,33 @@
     <footer>All Right Reserved To <?php echo $Name ?></footer>
   </body>
 </html> -->
+<?php
+
+// $name = "elzero";
+// $$name = "Web";
+
+
+// echo $$name;
+// echo "<br>";
+// echo $elzero;
+// echo "<br>";
+// echo "${$name}";
+// echo "<br>";
+// echo "{$elzero}";
+// echo "<br>";
+//------------------------------------------------------------------------
+
+// $a = 200; 
+// $b = &$a;
+// $a = 100;
+
+// echo $b; // 100
+
+// echo PHP_VERSION;
+echo __dir__;
+echo "<br>";
+echo PHP_OS_FAMILY;
+echo "<br>";
+echo __LINE__;
+
+
