@@ -40,10 +40,10 @@
 // echo $b; // 100
 
 // echo PHP_VERSION;
-echo __dir__;
-echo "<br>";
-echo PHP_OS_FAMILY;
-echo "<br>";
-echo __LINE__;
+// echo __dir__;
+// echo "<br>";
+// echo PHP_OS_FAMILY;
+// echo "<br>";
+// echo __LINE__;
 
 
