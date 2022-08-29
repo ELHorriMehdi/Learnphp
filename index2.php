@@ -97,7 +97,7 @@
 // // $d = ???;
 
 // echo $d; // Elzero Web School
-$a = 10;
-$b = 20;
+// $a = 10;
+// $b = 20;
 
-echo $a + $b * $a + $b + $a * $a * $a; // 10000
+// echo $a + $b * $a + $b + $a * $a * $a; // 10000
